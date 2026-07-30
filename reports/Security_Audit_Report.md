@@ -21,3 +21,14 @@ The audit reviewed:
 - Risks affecting the confidentiality, integrity, and availability of organizational assets
 
 The objective was to determine whether existing security controls adequately protected the organization's assets and to recommend improvements that would strengthen the company's overall security posture.
+---
+
+## Audit Objectives
+
+The primary objectives of this security audit were to:
+
+- Evaluate the effectiveness of the organization's existing security controls.
+- Identify vulnerabilities and security gaps that could expose organizational assets to risk.
+- Assess compliance with relevant industry standards and regulatory requirements.
+- Review the organization's ability to protect sensitive information and maintain business continuity.
+- Recommend practical security improvements to reduce risk and strengthen the organization's overall security posture.
