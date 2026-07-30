@@ -32,3 +32,40 @@ The primary objectives of this security audit were to:
 - Assess compliance with relevant industry standards and regulatory requirements.
 - Review the organization's ability to protect sensitive information and maintain business continuity.
 - Recommend practical security improvements to reduce risk and strengthen the organization's overall security posture.
+---
+
+## Organizational Assets
+
+The audit included a review of the assets managed by Botium Toys' IT department. Understanding and inventorying these assets is essential for identifying security risks, implementing appropriate controls, and supporting business continuity.
+
+The assets included in the audit were:
+
+- On-premises equipment used for daily business operations
+- Employee devices, including desktops, laptops, smartphones, remote workstations, and related peripherals
+- Retail inventory stored both on-site and within the company's warehouse
+- Business systems and services, including accounting, telecommunications, databases, security, e-commerce, and inventory management systems
+- Internet connectivity and the internal corporate network
+- Data retention and storage systems
+- Legacy systems that require ongoing manual monitoring and maintenance
+
+A complete inventory of organizational assets enables effective risk management and helps ensure that security controls are applied where they are needed most.
+---
+
+## Risk Assessment
+
+The security audit determined that Botium Toys has an elevated level of organizational risk due to inadequate asset management, missing security controls, and incomplete compliance with industry regulations and standards.
+
+The overall risk score assigned during the assessment was **8 out of 10**, indicating a high level of risk that requires timely remediation.
+
+Key risk factors identified during the audit include:
+
+- Inadequate asset management and classification
+- Excessive access to sensitive company and customer information
+- Lack of encryption for customer payment card data
+- Missing access control principles, including least privilege and separation of duties
+- Absence of an Intrusion Detection System (IDS)
+- No disaster recovery plan or backup strategy
+- Weak password requirements and no centralized password management system
+- Unclear maintenance schedule for legacy systems
+
+Although several technical and physical controls, such as firewalls, antivirus software, CCTV surveillance, locks, and fire detection systems, are already in place, additional security improvements are required to reduce organizational risk and strengthen the overall security posture.
