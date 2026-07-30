@@ -86,3 +86,38 @@ Botium Toys has implemented a process for notifying E.U. customers of qualifying
 ### SOC 1 / SOC 2
 
 The organization demonstrates strengths in data availability and integrity through existing IT controls. However, additional improvements to user access management and protection of sensitive information are needed to better align with SOC best practices.
+---
+
+## Recommendations
+
+Based on the findings of the security audit, the following recommendations are prioritized to reduce organizational risk and strengthen Botium Toys' security posture:
+
+### High Priority
+
+- Implement the Principle of Least Privilege (PoLP) to restrict user access to only the resources necessary for their job responsibilities.
+- Enforce Separation of Duties (SoD) to reduce the risk of fraud and unauthorized activities.
+- Encrypt all stored and transmitted customer payment card information.
+- Deploy an Intrusion Detection System (IDS) to improve threat detection capabilities.
+- Develop and implement a disaster recovery plan.
+- Establish routine backups for critical business systems and data.
+
+### Medium Priority
+
+- Strengthen the organization's password policy by requiring longer and more complex passwords.
+- Implement a centralized password management solution.
+- Improve asset inventory and classification processes.
+- Develop a formal maintenance schedule for legacy systems.
+
+### Low Priority
+
+- Continue maintaining existing firewall, antivirus, CCTV, and fire prevention controls.
+- Perform regular security audits and risk assessments to ensure continuous improvement.
+- ---
+
+## Conclusion
+
+The security audit identified several areas where Botium Toys can improve its cybersecurity posture. While the organization has implemented important physical and technical security controls, significant gaps remain in access management, data protection, disaster recovery, and compliance.
+
+By implementing the recommendations outlined in this report, Botium Toys can reduce organizational risk, improve regulatory compliance, and better protect its information assets against evolving cybersecurity threats.
+
+This case study demonstrates the importance of security auditing, risk management, and continuous improvement in maintaining an effective cybersecurity program.
