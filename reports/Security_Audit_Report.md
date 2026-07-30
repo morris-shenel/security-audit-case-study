@@ -1,0 +1,9 @@
+# Security Audit Report
+
+## Executive Summary
+
+This report presents the results of a security audit conducted for Botium Toys, a fictional retail organization. The purpose of the audit was to evaluate the organization's current security posture by reviewing existing security controls, identifying compliance gaps, assessing organizational risks, and recommending improvements based on industry best practices.
+
+The audit focused on the organization's assets, security controls, and compliance requirements. Based on the assessment, several critical security gaps were identified, including inadequate access controls, missing encryption for sensitive customer data, the absence of an intrusion detection system (IDS), and the lack of disaster recovery planning. These findings indicate an elevated level of organizational risk and highlight opportunities to strengthen the company's overall security posture.
+
+The recommendations provided in this report are aligned with the NIST Cybersecurity Framework (NIST CSF) and are intended to improve the confidentiality, integrity, and availability of organizational assets while supporting compliance with applicable security and privacy requirements.
