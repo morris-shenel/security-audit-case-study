@@ -69,3 +69,20 @@ Key risk factors identified during the audit include:
 - Unclear maintenance schedule for legacy systems
 
 Although several technical and physical controls, such as firewalls, antivirus software, CCTV surveillance, locks, and fire detection systems, are already in place, additional security improvements are required to reduce organizational risk and strengthen the overall security posture.
+---
+
+## Compliance Assessment
+
+The audit evaluated Botium Toys' alignment with several widely recognized compliance standards and best practices.
+
+### PCI DSS
+
+The organization does not fully meet PCI DSS requirements. Improvements are needed to restrict access to payment card data, implement encryption, and strengthen password management practices.
+
+### GDPR
+
+Botium Toys has implemented a process for notifying E.U. customers of qualifying data breaches within 72 hours and maintains privacy policies. However, improvements are needed in asset classification and ensuring sensitive customer data is adequately protected.
+
+### SOC 1 / SOC 2
+
+The organization demonstrates strengths in data availability and integrity through existing IT controls. However, additional improvements to user access management and protection of sensitive information are needed to better align with SOC best practices.
